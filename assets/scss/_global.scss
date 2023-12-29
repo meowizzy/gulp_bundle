@@ -1,0 +1,8 @@
+body {
+  background-color: var(--bg-color);
+  min-height: 100vh;
+  font: var(--font-primary) var(--font-m);
+  a {
+    font: var(--font-links);
+  }
+}
