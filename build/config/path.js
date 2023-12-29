@@ -32,6 +32,6 @@ export const path = {
     },
 
     getTemplatesPath: function () {
-        return `${this.src}**/*.php`
+        return `**/*.php`
     }
 };
